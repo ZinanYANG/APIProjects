@@ -1,6 +1,6 @@
 # APIProjects
 
-<h2>Developed a RESTful API using Express.js for CRUD operations on jokes.</h2>
+<p>Developed a RESTful API using Express.js for CRUD operations on jokes.</p>
 <h2>Features include:</h2>
 <ul>
   <li>Fetching Random Joke: Returns a randomly selected joke from the dataset.</li>
